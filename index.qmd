@@ -1,11 +1,41 @@
 ---
-title: "STA3111"
+title: " "
+sidebar: false
+page-layout: full
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.home}
 
-```{r}
-1 + 1
-```
+:::: {.grid .course-details}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Lecturer
+
+-  {{< fa user >}} &nbsp; [Dr. Mutua Kilai](https://sam-mutua.github.io/work/)
+-  {{< fa university >}} &nbsp; Academic Block, Lecturer Lounge
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Course details
+
+- {{< fa calendar >}} &nbsp; Every Tuesday
+- {{< fa calendar-alt >}} Jan 2024 - April 2024
+- {{< fa clock >}} &nbsp; 4.00PM- 6.00PM
+- {{< fa location-dot >}} &nbsp; Virtual
+
+:::
+
+
+::::
+
+:::
+
+
+## Course Purpose
+
+
+## Course Learning Outcomes
+
+
+

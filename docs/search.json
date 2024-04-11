@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "STA3111",
+    "title": "STA3111 Theory of Estimation",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Dr. Mutua Kilai\n   Academic Block, Lecturer Lounge\n\n\n\n\n\n   Every Tuesday\n Jan 2024 - April 2024\n   4.00PM- 6.00PM\n   Virtual"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#course-purpose",
+    "href": "index.html#course-purpose",
+    "title": "STA3111 Theory of Estimation",
+    "section": "Course Purpose",
+    "text": "Course Purpose"
+  },
+  {
+    "objectID": "index.html#course-learning-outcomes",
+    "href": "index.html#course-learning-outcomes",
+    "title": "STA3111 Theory of Estimation",
+    "section": "Course Learning Outcomes",
+    "text": "Course Learning Outcomes"
+  },
+  {
+    "objectID": "lectures.html",
+    "href": "lectures.html",
+    "title": "Lecture Notes",
+    "section": "",
+    "text": "Lecture One"
   }
 ]

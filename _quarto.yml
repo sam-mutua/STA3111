@@ -3,12 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "STA3111"
+  title: "STA3111 Theory of Estimation"
+  page-footer: 
+    left: |
+        Copyright 2024, Mutua Kilai <br> With inspiration from template created by [Andrew Heiss](https://www.andrewheiss.com/) 
+    right: |
+        Made with {{< fa brands r-project >}},<i class="fa-solid fa-heart"></i>, and [Quarto](https://quarto.org/)<br>
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    background: primary
+    right:
+      - text: "Course Description"
+        file: index.qmd
+      - text: "Lecture Notes"
+        file: lectures.qmd
+      - text: "Exercises"
+        file: solutions.qmd
 
 format:
   html:
