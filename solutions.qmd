@@ -1,3 +1,5 @@
 ---
 title: "Solutions to Exercise"
 ---
+
+This provides the solutions to the exercises at the end of each lecture.

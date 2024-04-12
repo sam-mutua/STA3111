@@ -2,6 +2,6 @@
 title: "Lecture Notes"
 ---
 
-
+This page contains the lecture notes used for all the lessons held.
 
 

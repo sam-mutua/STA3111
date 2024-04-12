@@ -32,6 +32,13 @@
     "href": "lectures.html",
     "title": "Lecture Notes",
     "section": "",
-    "text": "Lecture One"
+    "text": "This page contains the lecture notes used for all the lessons held."
+  },
+  {
+    "objectID": "solutions.html",
+    "href": "solutions.html",
+    "title": "Solutions to Exercise",
+    "section": "",
+    "text": "This provides the solutions to the exercises at the end of each lecture."
   }
 ]
