@@ -34,8 +34,20 @@ page-layout: full
 
 ## Course Purpose
 
+- Master the grip of Theory of Estimation
+
+- Appreciate the properties of point and interval estimators
+
+- Gain knowledge on methods of estimation
 
 ## Course Learning Outcomes
 
+- At the end of this purpose learners should be able to:
 
-
+  * State clearly a parameter space and family of distribution
+  * Verify for different families of distributions known properties of point estimators
+  * Carry out estimation based on method of moments
+  * Perform estimation based on the method of MLE
+  * Do calculation based on interval estimation
+  
+  

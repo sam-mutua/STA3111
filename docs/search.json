@@ -18,14 +18,14 @@
     "href": "index.html#course-purpose",
     "title": "STA3111 Theory of Estimation",
     "section": "Course Purpose",
-    "text": "Course Purpose"
+    "text": "Course Purpose\n\nMaster the grip of Theory of Estimation\nAppreciate the properties of point and interval estimators\nGain knowledge on methods of estimation"
   },
   {
     "objectID": "index.html#course-learning-outcomes",
     "href": "index.html#course-learning-outcomes",
     "title": "STA3111 Theory of Estimation",
     "section": "Course Learning Outcomes",
-    "text": "Course Learning Outcomes"
+    "text": "Course Learning Outcomes\n\nAt the end of this purpose learners should be able to:\n\nState clearly a parameter space and family of distribution\nVerify for different families of distributions known properties of point estimators\nCarry out estimation based on method of moments\nPerform estimation based on the method of MLE\nDo calculation based on interval estimation"
   },
   {
     "objectID": "lectures.html",
